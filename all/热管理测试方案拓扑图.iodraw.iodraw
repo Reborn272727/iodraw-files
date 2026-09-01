@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="120" width="185" height="185" as="geometry" />
+        </mxCell>
         <mxCell id="zd0hXp33V0-Si8TyXRiO-1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;管路&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
           <mxGeometry x="20" y="70" width="160" height="50" as="geometry" />
         </mxCell>
@@ -18,9 +21,6 @@
         </mxCell>
         <mxCell id="zd0hXp33V0-Si8TyXRiO-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;制冷制热模拟台架&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zd0hXp33V0-Si8TyXRiO-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
