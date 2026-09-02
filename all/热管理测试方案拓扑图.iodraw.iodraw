@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="SeqAHpZKKFySydWqAQf1">
-    <mxGraphModel dx="1123" dy="707" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1950" dy="707" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,48 @@
         </mxCell>
         <mxCell id="zd0hXp33V0-Si8TyXRiO-20" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电压/流H互感器&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
           <mxGeometry x="365" y="920" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-394" y="530" width="480" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-23" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;液冷管路&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-324" y="540" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-24" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;制冷/制热性能测试台&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-379" y="620" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-25" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;数据采集仪&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-379" y="680" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-26" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;温度传感器&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-379" y="740" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-27" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;压力传感器&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-379" y="800" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-28" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;流量计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-379" y="860" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-29" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;功率分析仪&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-379" y="920" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-30" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电压监测仪&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="620" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-31" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;振动测试分析仪&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="680" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-32" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;加速度传感器&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="740" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-33" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;流量计&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="800" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-34" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电网故障模拟装置&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="860" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-35" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电压/流H互感器&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="920" width="225" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
