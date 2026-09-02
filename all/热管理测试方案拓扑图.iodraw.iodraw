@@ -83,7 +83,10 @@
           <mxGeometry x="-148" y="860" width="225" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zd0hXp33V0-Si8TyXRiO-39" value="Pack存放台架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="-338" y="229" width="340" height="60" as="geometry" />
+          <mxGeometry x="-342" y="218" width="340" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-40" value="Pack存放台架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="-332" y="228" width="340" height="183" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
