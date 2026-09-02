@@ -46,6 +46,9 @@
         <mxCell id="zd0hXp33V0-Si8TyXRiO-14" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;功率分析仪&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
           <mxGeometry x="265" y="940" width="225" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-15" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;功率分析仪&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;" vertex="1" parent="1">
+          <mxGeometry x="495" y="640" width="225" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
