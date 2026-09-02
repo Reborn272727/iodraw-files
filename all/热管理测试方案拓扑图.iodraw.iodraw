@@ -91,8 +91,8 @@
         <mxCell id="zd0hXp33V0-Si8TyXRiO-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="485" y="218" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zd0hXp33V0-Si8TyXRiO-43" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="497" y="317" width="157" height="118" as="geometry" />
+        <mxCell id="zd0hXp33V0-Si8TyXRiO-43" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;主要部件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="189" width="157" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
